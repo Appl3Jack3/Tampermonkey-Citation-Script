@@ -25,3 +25,8 @@ ShareAlike — If you remix, transform, or build upon the material, you must dis
 
 No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 https://creativecommons.org/licenses/by-nc-sa/4.0/ (creativecommons.org in Bing)
+
+## Disclaimer
+
+This script is provided “as is,” without warranty of any kind. Use it at your own risk. The author is not responsible for any issues, damages, or data loss resulting from the use or misuse of this software.
+
