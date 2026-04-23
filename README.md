@@ -30,3 +30,6 @@ https://creativecommons.org/licenses/by-nc-sa/4.0/ (creativecommons.org in Bing)
 
 This script is provided “as is,” without warranty of any kind. Use it at your own risk. The author is not responsible for any issues, damages, or data loss resulting from the use or misuse of this software.
 
+
+![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-blue.svg)
+
